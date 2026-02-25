@@ -1,0 +1,14 @@
+checkmate-thinking/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── python/
+│   ├── move_logic.py
+│   └── timing_simulation.py
+├── concepts/
+│   ├── planning.md
+│   ├── timing.md
+│   └── decision_making.md
+└── notes/
+    └── chess_to_life.md
